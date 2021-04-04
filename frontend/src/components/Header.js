@@ -6,17 +6,17 @@ const Header = () => {
       <ul className='flex flex-row space-x-4 md:space-x-10 md:text-xl justify-center md:justify-end font-thin'>
         <li>
           <a href='#projects' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
-            Projects
+            Proyectos
           </a>
         </li>
         <li>
           <a href='#contact' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
-            Contact
+            Contacto
           </a>
         </li>
         <li>
-          <a href='./Resume - Theelipan Prabakar.pdf' target='_blank' rel='noreferrer' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
-            Resume
+          <a href='./Julio Cesar Mederos Arias.pdf' target='_blank' rel='noreferrer' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
+            Resumen
           </a>
         </li>
       </ul>

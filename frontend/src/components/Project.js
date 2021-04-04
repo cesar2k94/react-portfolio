@@ -6,7 +6,7 @@ const Project = () => {
     <>
       <section className='my-28 px-5' id='projects'>
         <header className='text-2xl font-bold pt-10'>
-          <h2>Projects</h2>
+          <h2>Proyectos</h2>
         </header>
         <div className='my-7 space-y-24'>
           {projects.map((project, index) => (
@@ -47,8 +47,8 @@ const Project = () => {
         </div>
       </section>
       <div className='mx-5'>
-        <a href='https://github.com/Deelip7' target='_blank' rel='noreferrer' className='bg-gray block shadow-lg uppercase border border-gray-500 rounded-lg text-center my-12 p-2 max-w-xs m-auto'>
-          <span>See more on Github</span>
+        <a href='https://github.com/cesar2k94' target='_blank' rel='noreferrer' className='bg-gray block shadow-lg uppercase border border-gray-500 rounded-lg text-center my-12 p-2 max-w-xs m-auto'>
+          <span>Ver más en Github</span>
         </a>
       </div>
     </>
